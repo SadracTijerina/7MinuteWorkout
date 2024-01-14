@@ -1,0 +1,25 @@
+# Android
+*.apk
+*.ap_
+*.dex
+*.class
+*.log
+
+# Local configuration file (e.g., proguard-rules.pro, google-services.json, etc.)
+app/proguard-rules.pro
+app/google-services.json
+
+# Android Studio
+.idea/
+*.iml
+local.properties
+/.idea/workspace.xml
+/.idea/libraries
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build/Generated files
+build/
+captures/
